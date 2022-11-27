@@ -36,10 +36,10 @@ print(''' Sunway Int'l College
            Maitidevi, Kathmandu
 **********************************************
            ''')
-print(f"Name : {studentName} ")
-print(f"Address : {studentAddress} ")
-print(f"faculty : {studentFaculty} ")
-print(f"program : {studentProgram} ")
+print(f"Name : {studentName}                Address : {studentAddress}")
+
+print(f"faculty : {studentFaculty}          program : {studentProgram}")
+
 print(f"intake : {studentIntake}")
 
 
